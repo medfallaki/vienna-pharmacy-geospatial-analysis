@@ -17,7 +17,7 @@ The analysis combines pharmacy location data with district-level population stat
 
 The analysis uses:
 
-- **[Pharmacy locations](https://www.data.gv.at/datasets/cf00fe06-e4b2-4319-af00-85230e7b2f1b?locale=de):** 358 pharmacies across Vienna's 23 districts. link: 
+- **[Pharmacy locations](https://www.data.gv.at/datasets/cf00fe06-e4b2-4319-af00-85230e7b2f1b?locale=de):** 358 pharmacies across Vienna's 23 districts.
 - **[Population data](https://data.wien.gv.at/):** District-level population statistics.
 - **Population density:** Residents per square kilometer for each district in 2025 (Statatlas).
 
