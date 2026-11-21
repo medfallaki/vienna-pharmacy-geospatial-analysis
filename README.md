@@ -50,7 +50,7 @@ The preliminary analysis identified **33 pharmacies (9.22%)** as noise, indicati
 
 ### 3. Population Density and Isolation
 
-We found a **strong negative correlation (Spearman's ρ ≈ −0.80)** between population density and the percentage of pharmacies classified as noise.
+We found a **strong negative correlation (Spearman's ρ ≈ −0.80)** between population density and the percentage of isolated pharmacies (classified as noise).
 
 This suggests that pharmacies in less densely populated districts tend to be more geographically isolated.
 
